@@ -11,10 +11,12 @@
 ))](mailto:SepidehKhakzad@gmail.com)
 
 
-## Hi there!👋
-I'm Sepideh, ML engineer, PhD student, researcher and programer.
+### Hi there!👋
+I'm Sepideh, ML engineer, PhD candidate, researcher and programer.
 
-## Technologies 💻
+### Technologies 💻
+
+
 <!--
 **sepidehkhakzad/sepidehkhakzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
