@@ -92,5 +92,39 @@ I'm Sepideh, ML engineer, PhD candidate, Researcher and Programmer.
     </a>
 </p>
 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117)](https://github.com/leviarista/eco-stats-peru) -->
+
+<!---
+    ### Pinned repos 📌
+    <p align="center">
+        <a href="">
+          <img width="410" src=""/>
+        </a>
+        <a href="">
+          <img width="400" src=""/>
+          <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=&show_icons=true&theme=tokyonight&show_owner=false" /> -->
+        </a>
+        <a href="">
+          <img width="410" src=""/>
+          <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=&show_icons=true&theme=tokyonight&show_owner=false" /> -->
+        </a>
+        <a href="">
+          <img width="400" src=""/>
+        </a>
+    -->
+<!--
+**sepidehkhakzad/sepidehkhakzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
