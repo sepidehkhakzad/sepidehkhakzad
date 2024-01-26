@@ -88,7 +88,7 @@ I'm Sepideh, ML engineer, PhD candidate, Researcher and Programmer.
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=sepidehkhakzad&theme=vision-friendly-dark" alt="Sepideh's GitHub Stats" />
     </a>
     <a href="https://github.com/sepidehkhakzad">
-      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepidehkhakzad&layout=donut-vertical&show_icons=true&theme=vision-friendly-dark" />
+      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepidehkhakzad&layout=donut&show_icons=true&theme=vision-friendly-dark" />
     </a>
 </p>
 
