@@ -10,11 +10,11 @@
 
 
 ### Hi there!👋
-I'm Sepideh, ML engineer, PhD candidate, researcher and programer.
+I'm Sepideh, ML engineer, PhD candidate, Researcher and Programmer.
 
 ### Technologies 💻
 <p align="center">
-    <a href="https://www.python.org/" target="blank"> <img
+    <a href="https://www.python.org/" target="blank"> <
             src="python.svg"
             alt="Python" width="40" height="40" /> </a>
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img
