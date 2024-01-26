@@ -80,7 +80,45 @@ I'm Sepideh, ML engineer, PhD candidate, Researcher and Programmer.
             src="cplusplus.svg"
             alt="c++" width="40" height="40" /> </a>
 </p>
-[!Sepideh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepidehkhakzad)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leviarista&repo=eco-stats-peru&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117)](https://github.com/leviarista/eco-stats-peru) -->
+
+<!---### Pinned repos 📌
+<p align="center">
+    <a href="">
+      <img width="410" src=""/>
+    </a>
+    <a href="">
+      <img width="400" src=""/>
+      <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=&show_icons=true&theme=tokyonight&show_owner=false" /> -->
+    </a>
+    <a href="">
+      <img width="410" src=""/>
+      <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=&show_icons=true&theme=tokyonight&show_owner=false" /> -->
+    </a>
+    <a href="">
+      <img width="400" src=""/>
+    </a>
+    -->
+
+</p>
+
+### Stats 📈
+
+<p align="center">
+    <a href="https://github.com/sepidehkhakzad">
+      <img align="center" src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=sepidehkhakzad&theme=vision-friendly-dark)" alt="Sepideh's GitHub Stats" />
+    </a>
+    <a href="https://github.com/sepidehkhakzad">
+      <img align="top" src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=sepidehkhakzad&layout=donut-vertical&show_icons=true&theme=vision-friendly-dark)" />
+    </a>
+</p>
+
+
+
 <!--
 **sepidehkhakzad/sepidehkhakzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
