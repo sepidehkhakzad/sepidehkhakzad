@@ -6,8 +6,7 @@
 [![Website](https://img.shields.io/badge/website-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black)](https://users.encs.concordia.ca/~s_khakza/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sepideh_khakzad)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/leviarista](https://twitter.com/sepideh_khakzad))
-[![Gmail]((https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&labelColor=red
-))](mailto:SepidehKhakzad@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&labelColor=red))](mailto:SepidehKhakzad@gmail.com)
 
 
 ### Hi there!👋
