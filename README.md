@@ -1,5 +1,16 @@
 
 ![Header](./github-header-image.png)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepidehkhakzadgharamaleki/)
+
+
+
+
+##Hi there!👋
+I'm Sepideh, ML engineer, PhD student, researcher and programer.
+
+## Technologies 💻
 <!--
 **sepidehkhakzad/sepidehkhakzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
