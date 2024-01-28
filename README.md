@@ -16,7 +16,7 @@ I'm Sepideh, ML engineer, PhD candidate, Researcher and Programmer.
 <p align="center">
     <a href="https://www.python.org/"> <img
             src="python.svg"
-            alt="Python" width="60" height="60" />
+            alt="Python" width="50" height="50" />
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img
             src="Matlab.svg"
             alt="Matlab" width="40" height="40" /> </a>
