@@ -10,7 +10,7 @@
 
 
 ### Hi there!👋
-I'm Sepideh, ML engineer, PhD candidate, Researcher and Programmer.
+I'm Sepideh, ML developer, PhD candidate, Researcher and Programmer.
 
 ### Technologies 💻
 <p align="center">
